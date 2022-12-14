@@ -1,4 +1,31 @@
-__TOC__
+
+
+ Status                 | In Progress                                                      |
+| ---------------------- | ---------------------------------------------------------------- |
+| Date of Request        | Date when the request was made                                   |
+| Date of Implementation | Deadline for implementation of design to fulfill the requirement |
+| Domain                 | Name of the domain for which the design applies.                 |
+| Program                | Name of the program which will implement the design              |
+| Architect              | Mohamed.Essam@frieslandCampina.com                               |
+| Development Team       |                                                                  |
+| Approver               |                                                                  |
+| Contributors           | Name of the people who have contributed to this architecture     |
+| Final Review Outcome   | Google Ads API Security Options                                  |
+| Approval Date          |                                                                  |
+| Decision Type          | Approved or Conditionally approved or Rejected                   |
+| Technical Debt, if any |                                                                  |
+
+Table of Contents
+=================
+- [Table of Contents](#table-of-contents)
+- [Objective](#objective)
+- [Expectation from the review Board](#expectation-from-the-review-board)
+- [Solution Design Options](#solution-design-options)
+- [Comparison and final Recommendation](#comparison-and-final-recommendation)
+- [Final Recommendation](#final-recommendation)
+- [Open Questions or Concerns](#open-questions-or-concerns)
+- [Piece of Advice](#piece-of-advice)
+
 # Objective 
 
 Why do you want to write this solution design document? What is the problem you want to solve?
@@ -76,6 +103,12 @@ Creating a table in markdown is very difficult. What I normally do is, I create 
 
 # Final Recommendation
 Explain what your final recommendation and a summary of why you recommend a particular option. Please make sure not to have a biased opinion. 
+
+# Open Questions or Concerns 
+Its always advisable to clearly highlight if you have any open questions or concerns which you would like to address before implemting the design. 
+- Question 1
+- Question 2
+- Question 3
 
 
 # Piece of Advice
