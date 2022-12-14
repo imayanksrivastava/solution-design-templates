@@ -6,11 +6,11 @@
 | Date of Implementation | Deadline for implementation of design to fulfill the requirement |
 | Domain                 | Name of the domain for which the design applies.                 |
 | Program                | Name of the program which will implement the design              |
-| Architect              | Mohamed.Essam@frieslandCampina.com                               |
-| Development Team       |                                                                  |
+| Architect              | Name of the Architect working on the design                      |
+| Development Team       | Name of the developers or the team involed                       |
 | Approver               |                                                                  |
 | Contributors           | Name of the people who have contributed to this architecture     |
-| Final Review Outcome   | Google Ads API Security Options                                  |
+| Final Review Outcome   | Approved or Rejected                                             |
 | Approval Date          |                                                                  |
 | Decision Type          | Approved or Conditionally approved or Rejected                   |
 | Technical Debt, if any |                                                                  |
