@@ -59,21 +59,20 @@ If your design document has multiple options, it is also better to have a compar
 
 Creating a table in markdown is very difficult. What I normally do is, I create it in excel and use an online tool to convert that excel to markdown. I normally use [Excel to Markdown](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/ ) for this purpose.It is free and very easy to use. 
 
-| Assessment Criterias       | Option 1 | Option 2 | Option 3 |
-| -------------------------- | -------- | -------- | -------- |
-| Availability               |          |          |          |
-| Resiliency                 |          |          |          |
-| Scalability                |          |          |          |
-| Observability              |          |          |          |
-| Extensibility              |          |          |          |
-| Deployment                 |          |          |          |
-| Latency and Orchestration  |          |          |          |
-| Performance considerations |          |          |          |
-| Cost Considerations        |          |          |          |
-| Governance                 |          |          |          |
-| Pros                       |          |          |          |
-| Cons                       |          |          |          |
-| Final Recommendation       | No       | No       | Yes      |  
+| Assessment Criterias       | Option 1     | Option 2     | Option 3     |
+| -------------------------- | ------------ | ------------ | ------------ |
+| Availability               | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Resiliency                 | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Scalability                | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Observability              | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Extensibility              | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Deployment                 | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Latency and Orchestration  | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Performance considerations | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Cost Considerations        | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Governance                 | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Other considerations       | Pros<br>Cons | Pros<br>Cons | Pros<br>Cons |
+| Final Recommendation       | No           | No           | Yes          |
 
 # Final Recommendation
 Explain what your final recommendation and a summary of why you recommend a particular option. Please make sure not to have a biased opinion. 
