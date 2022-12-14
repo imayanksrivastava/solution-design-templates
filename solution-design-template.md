@@ -1,7 +1,8 @@
 
 
- Status                 | In Progress                                                      |
+ Details                 | Description                                                  |
 | ---------------------- | ---------------------------------------------------------------- |
+| Status of Request      | Ready for Review                                                 |
 | Date of Request        | Date when the request was made                                   |
 | Date of Implementation | Deadline for implementation of design to fulfill the requirement |
 | Domain                 | Name of the domain for which the design applies.                 |
