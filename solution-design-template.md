@@ -8,12 +8,12 @@
 | Program                | Name of the program which will implement the design              |
 | Architect              | Name of the Architect working on the design                      |
 | Development Team       | Name of the developers or the team involed                       |
-| Approver               |                                                                  |
+| Approver               | Name of the approver or the Board                                |
 | Contributors           | Name of the people who have contributed to this architecture     |
 | Final Review Outcome   | Approved or Rejected                                             |
-| Approval Date          |                                                                  |
+| Approval Date          | Date when the design was approved                                |
 | Decision Type          | Approved or Conditionally approved or Rejected                   |
-| Technical Debt, if any |                                                                  |
+| Technical Debt, if any | Yes or No. If yes, add the details below                         |
 
 Table of Contents
 =================
@@ -24,6 +24,7 @@ Table of Contents
 - [Comparison and final Recommendation](#comparison-and-final-recommendation)
 - [Final Recommendation](#final-recommendation)
 - [Open Questions or Concerns](#open-questions-or-concerns)
+- [Technical Debts](#technical-debts)
 - [Piece of Advice](#piece-of-advice)
 
 # Objective 
@@ -110,6 +111,13 @@ Its always advisable to clearly highlight if you have any open questions or conc
 - Question 2
 - Question 3
 
+# Technical Debts 
+| Debt Detail | Possible Date when the debt will be solved | Owner |
+| ----------- | ------------------------------------------ | ----- |
+| Debt 1      |                                            |       |
+| Debt 2      |                                            |       |
+| Debt 3      |                                            |       |
+|             |                                            |       |
 
 # Piece of Advice
 - Don’t get into the trap of “bigger the better”. My advice is to keep the design document brief, very clear, and must have only relevant information.
