@@ -15,16 +15,20 @@ Present all the options on the table with the pros and cons of each option
 **Option 1**
 
 - **High Level Design**
+
   In this section provide a clear explaination of your design with a flow diagram or an image created using either draw.io or lucidchart or visio. Keep it low on text and heavy on visual representation. 
 
 - **Privacy and Security**
+
   Your design document should clearly highlight how the security aspects will be taken care of if it is a new design. For a change in the existing design, you must clearly specify the aspects which might get impacted from a security standpoint and how you intend to take care of them. In a nutshell, follow the principle of “Security by Design”. You must explain platform security, data security, authentication, and authorization mechanisms.
   Another really important aspect that the design must cater to is the classification of the data that will be processed and how will your access management framework cater to it.
 
 - **Availability**
+
   In production, solutions catering to critical business requirements are expected to have high uptime and availability. You must clearly design how you would take care of this requirement and what would happen if your application suffers an outage due to platform issues. For instance, what would happen if there is an outage in the data center where your database is hosted? Will there be a failover to a database in a different data center in a different region?
 
 - **Resiliency**
+
   Trust me, over the years I have seen these two things to be the most underrated functionalities in design documents when it comes to the Data domain. Always explain how the way your application would be restarted if there is a failure and what would happen when it is restarted. Is there a checkpoint from where it has to be started or does it have to start from scratch? Also important is to explain what would happen if the database crashes or get corrupts. Will there be daily backups and how will you restore the database to the point in time where it crashed? Always make sure you consider this scenario in your design.
 - **Scalability**
   Scalability is the ability of a system to handle increased. Your design must be very scalable and can respond to the increase of decrease in demand. Hence your design must consider scalability both in terms of the platform as well as an increase in data loads. For example, if your daily loads are deltas and not very large but month-end loads are a full large load you could consider autoscaling where the platform can have more computational power on month-end and automatically scale back to a lower configuration for the rest of the month. Scalability automatically impacts the operational efficiency and cost impact of your design.
